@@ -2,7 +2,22 @@
 
 O desafio é codar diferentes projetos por 21 dias seguidos.
 
-            Projetos
+ Dias:
+           
+ 1º: Criar repositório para os projetos -> Feito
+
+ 2ª: Criar um "Hello World!" estilizado ->
+ 
+ 3º: Criar um botão animado ->
+ 
+ 4º: Criar uma calculadora ->
+ 
+ 5º: Desenvolver uma página customizada que exiba o erra 404 ->
+ 
+ 6º: Criar um card com o efeito glassmorphism ->
+ 
+ 7º: Desenvolver um contador ->
+  
 
 
-#rocketseat  
+#RocketSeat             #21diasdecodigo          #soumarmiteiro
