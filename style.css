@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+ 
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  flex-direction: column;
+  
+  background-image:url(./img/punks.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+
+  font-family: 'Silkscreen', cursive ;
+  font-style: normal;
+  font-weight: 400;
+}
+
+h1 {
+  font-size: 3rem;
+
+  background-color: rgb(84, 96, 230);
+  color:rgb(86, 14, 132);
+  box-shadow:2px 2px 99px 1px rgb(84, 96, 230);
+  
+  position: relative;
+  bottom: 21rem;
+
+}
+
+.url {
+  
+  position: relative;
+  top: 9.4rem;
+
+  background-color:rgba(105, 185, 217, 1);
+}
