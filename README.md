@@ -6,9 +6,9 @@ O desafio é codar diferentes projetos por 21 dias seguidos.
            
  1º: Criar repositório para os projetos -> Feito
 
- 2ª: Criar um "Hello World!" estilizado ->
- 
- 3º: Criar um botão animado ->
+ 2ª: Criar um "Hello World!" estilizado -> Feito  
+   
+ 3º: Criar um botão animado -> Feito
  
  4º: Criar uma calculadora ->
  
