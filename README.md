@@ -10,7 +10,7 @@ O desafio é codar diferentes projetos por 21 dias seguidos.
    
  3º: Criar um botão animado -> Feito
  
- 4º: Criar uma calculadora ->
+ 4º: Criar uma calculadora -> Feito
  
  5º: Desenvolver uma página customizada que exiba o erra 404 ->
  
