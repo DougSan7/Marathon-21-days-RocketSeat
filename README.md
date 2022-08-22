@@ -12,7 +12,7 @@ O desafio é codar diferentes projetos por 21 dias seguidos.
  
  4º: Criar uma calculadora -> Feito
  
- 5º: Desenvolver uma página customizada que exiba o erra 404 ->
+ 5º: Desenvolver uma página customizada que exiba o erra 404 -> Feito
  
  6º: Criar um card com o efeito glassmorphism ->
  
