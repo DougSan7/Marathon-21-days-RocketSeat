@@ -16,9 +16,9 @@ O desafio é codar diferentes projetos por 21 dias seguidos.
  
  6º: Criar um card com o efeito glassmorphism -> Feito
  
- 7º: Desenvolver um contador ->
+ 7º: Desenvolver um contador -> Feito
  
- 8º: Dark mode ->
+ 8º: Dark mode -> 
  
  9º: Animação de "Loading" ->
  
