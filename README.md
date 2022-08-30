@@ -18,11 +18,11 @@ O desafio é codar diferentes projetos por 21 dias seguidos.
  
  7º: Desenvolver um contador -> Feito
  
- 8º: Dark mode -> 
+ 8º: Dark mode -> Feito 
  
- 9º: Animação de "Loading" ->
+ 9º: Animação de "Loading" -> Feito
  
- 10º: Utilizar a lib Particle.js do JavaScript ->
+ 10º: Utilizar a lib Particle.js do JavaScript -> Feito
  
  11º: Layout de um formulário de Login ->
  
