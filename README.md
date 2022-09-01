@@ -24,11 +24,11 @@ O desafio é codar diferentes projetos por 21 dias seguidos.
  
  10º: Utilizar a lib Particle.js do JavaScript -> Feito
  
- 11º: Layout de um formulário de Login ->
+ 11º: Layout de um formulário de Login -> Feito 
  
  12º: Desenvolver uma galeria de imagens ->
  
- 13º: Menu Responsivo ->
+ 13º: Menu Responsivo -> Feito
  
  14º: Formulário de Quizzes
  
