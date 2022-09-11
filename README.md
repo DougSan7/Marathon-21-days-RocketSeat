@@ -26,7 +26,7 @@ O desafio é codar diferentes projetos por 21 dias seguidos.
  
  11º: Layout de um formulário de Login -> Feito 
  
- 12º: Desenvolver uma galeria de imagens ->
+ 12º: Desenvolver uma galeria de imagens -> Feito
  
  13º: Menu Responsivo -> Feito
  
